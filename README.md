@@ -11,27 +11,3 @@ Released in beta by OpenAI in 2020, the language model GPT-3 has become a go-to 
 Having gained access to the beta API of GPT-3, we plan to start by playing around with its parameters and inputs to generate "prompts" for potential actions given human-defined introductions, then using GPT-3 on these prompts to generate next steps in the interactive fiction. We will then experiment with different methods of seeding GPT-3 prompts or "encoding" the state of the story (e.g. characters and their status, plot direction, setting details, using existing summarizer models to remember past sections) in order to promote coherence. We can test the success and accuracy of these encoding methods by manually labelling choose your own adventure fiction according to whatever state encoding we use to feed into GPT-3 and seeing if our model can accurately keep track of this encoding without human intervention. If there is time, we can consider scraping existing fiction and attempting to retrain smaller language models, or further experimentation with different encoding variants.
 
 At a minimum, we will deliver a functional web app that takes in user prompts and generates full interactive fiction works according to user input, and use manual labeling of outputs based on existing CYOC stories to tune hyperparameters for coherency. If time permits or if there is greater interest from the team, we can try to modify our GPT-3 usage to generate full text adventures where users can type in any actions to influence the plotline (as a stretch goal). Other potential extensions during the semester might include experimenting with different GPT-3 inputs to adjust the style of the text output, or anything else proposed by the team.
-
-# Execution Schedule
-
-*Assuming ~ten weeks (starting early October and ending mid December) for project execution:*
-
-[Copy of  Rough timeline of project](https://www.notion.so/75afcffe8300406588b56a9a37ad85be)
-
-| Task                                            | week                                 |
-| ----------------------------------------------- | ------------------------------------ |
-| Setup + GPT3 experimentation                    | Weeks 1-2                            |
-| Base GPT3 Interactive Fiction Prompt Generation | Weeks 3-4                            |
-| Summarization + Encoding Methods                | Weeks 4-5                            |
-| Evaluation + Tuning                             | Week 6-7                             |
-| Extension Exploration (text adventures, etc.)   | Weeks 8-9 (can also be parallelized) |
-| Basic webdev, demo day presentation             | Week 10                              |
-
-
-
-# Project member requirements:
-
-- Experience coding in Python, working with APIs.
-- Experience with language modeling is a bonus, but not required. At the very least, there should be enthusiasm about language models such as GPT-3.
-- Interest in computational creativity and enthusiasm about fiction (especially interactive fiction) a plus.
-- Note that this may not be a great project for students trying to learn more traditional AI/ML modeling techniques, as it is primarily GPT3 based and will involve less direct model development.
