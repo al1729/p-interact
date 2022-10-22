@@ -1,0 +1,21 @@
+This is a table with characters and their characteristics in a fantasy short story:
+1. Jane | alive | farmer | yes | human | woman | 55
+2. John | alive | farmer | yes | human | man | 23
+3. Sarah | alive | farmer's daughter | yes | human | woman | 16
+4. Bill | alive | blacksmith's son | yes | human | man | 10
+5. Mary | alive | blacksmith's daughter | yes | human | woman | 8
+Write the beginning of a fantasy story with the characters in the table .
+
+
+input: Jane was alive and a farmer. John was her son and also alive. Sarah was Jane's daughter and also alive. Bill was alive and the blacksmith's son. Mary was the blacksmith's daughter and also alive.
+
+
+
+
+
+input: CTV Atlantic
+
+
+- Characters and their characteristics in a fantasy short story
+
+

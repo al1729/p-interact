@@ -1,0 +1,27 @@
+This is a table with characters and their characteristics in a fantasy short story:
+name | alive | profession | magic_user | species | gender | age
+
+Bob | alive | blacksmith | no | human | man | 19
+Tom | dead | mage | yes | elf | woman | 38
+Xavier | alive | farmer | no | human | man | 16
+Fiona | alive | tailor/seamstress | no | human | woman | 23
+Yvette | alive | hunter/gatherer | yes*| elf*| woman*| 16
+Christopher | alive| blacksmith apprentice| no*| human*| man*| 15
+Henry | alive| farmer's son| no*| human*| boy*| 10
+Write the beginning of a fantasy story with the characters in the table .
+
+
+input: Christopher was the only one of his family who was not content with the simple life of a farmer. He dreamed of traveling to distant places and learning about new cultures. One day, he decided to take matters into his own hands and ran away
+
+
+from home. He was determined to find his fortune in the world.
+
+
+input: He was determined to find his fortune in the world.
+
+He was determined to find his fortune in the world.
+
+
+
+
+

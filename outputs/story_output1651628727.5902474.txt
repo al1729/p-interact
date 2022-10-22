@@ -1,0 +1,12 @@
+This is a table with characters and their characteristics in a fantasy short story:
+character | alive | profession | magic_user | species | gender | age
+
+1. Sarah | alive | farmer | no | human | woman | 32
+2. John | alive | blacksmith | no | human | man | 17
+3. Bill | alive | farmer | no | human | man | 45
+4. Tom the Mage | dead | mage | yes | elf | woman | 38
+5. Bob the Blacksmith | alive | blacksmith | no | human | man | 19
+6. Mary the Farmer's Wife| alive | farmer's wife| no | human| woman| 28
+Write the beginning of a fantasy story with the characters in the table .
+
+

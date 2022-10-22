@@ -1,0 +1,9 @@
+This is a table with characters and their characteristics in a fantasy short story:
+1. Sarah | alive | farmer | no | human | woman | 16
+2. John | alive | blacksmith | no | human | man | 23
+3. Harry | alive | farmer | yes | human | man | 45
+4. Mary | alive | farmer's daughter | yes | human | woman | 17
+5. George | alive | farmer's son | yes | human | man | 15
+Write the beginning of a fantasy story with the characters in the table .
+
+

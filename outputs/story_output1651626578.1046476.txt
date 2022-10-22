@@ -1,0 +1,10 @@
+A bartender wants to become anonymous, but her ex-boyfriend exposes her real name. Her real name was Becca, and she met a guy named David at a bar. He was a bartender and she fell in love with him. The characters in this story are the following: The table includes the following information:
+-Name
+-Alive
+-Profession
+-Magic user
+-Species
+-Gender
+-AgeTell me the story of Becca and David.
+
+

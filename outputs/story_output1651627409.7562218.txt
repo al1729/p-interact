@@ -1,0 +1,11 @@
+This is a table with characters and their characteristics in a fantasy short story:
+name || profession | magic_user | species | gender | age
+
+John || farmer |||| 23
+
+Susan || blacksmith's daughter |||| 17
+
+Timothy || farmer's son |||| 15
+Write the beginning of a fantasy story with the characters in the table .
+
+

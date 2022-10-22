@@ -1,0 +1,15 @@
+This is a table with characters and their characteristics in a fantasy short story:
+1. Sarah | alive | farmer | no | human | woman | 16
+2. John | alive | blacksmith | no | human | man | 23
+3. Bill | alive | farmer | no | human | man | 45
+4. Tom the Mage | dead | mage | yes | elf | man | 38
+5. Bob the Blacksmith | alive | blacksmith | yes | human | man | 19
+Write the beginning of a fantasy story with the characters in the table .
+
+
+input: Sarah was walking through the forest, thinking about her life. She was a farmer, but she didn't have any land. She was tired of living like this, always wandering from place to place. She wished she could find a place to
+
+
+settle down.
+
+

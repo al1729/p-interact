@@ -1,0 +1,29 @@
+This is a table with characters and their characteristics in a fantasy short story:
+1. Joe | alive | farmer | no | human | man | 26
+2. Jill | alive | farmer's daughter | no | human | woman | 18
+3. John the blacksmith's son | alive | blacksmith apprentice | no | human | man | 15
+4. Jenny the blacksmith's daughter | alive | blacksmith apprentice's wife | no | human | woman | 15
+5. James the mage's apprentice | alive | mage's apprentice | yes | human | man | 20
+6. Josephine the mage's apprentice's wife
+Write the beginning of a fantasy story with the characters in the table .
+
+
+input: Joe was alive. He was a farmer. He had no children. He was a human. He was a man. He was 26 years old. Jill was alive. She was a farmer's daughter. She had no children. She was
+
+
+a human. She was a woman. She was 18 years old. John the blacksmith's son was alive. He was a blacksmith apprentice. He had no children. He was a human. He was a man. He was 15 years old. Jenny the blacksmith's daughter was alive. She was a blacksmith apprentice's wife. She had no children. She was a human. She was a woman. She was 15 years old. James the mage's apprentice was alive. He was a mage's apprentice. He had no children. He was a human. He was a man. He was 20 years old. Josephine the mage's apprentice's wife was alive. She was a mage's apprentice's wife. She had no children. She was a human. She was a woman. She was 15 years old
+
+
+input: .
+
+The family tree is as follows:
+
+John the blacksmith's son 
+-James the blacksmith's apprentice 
+-Jenny the blacksmith's daughter 
+-Josephine the mage's apprentice's wife
+
+
+
+
+

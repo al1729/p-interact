@@ -1,0 +1,22 @@
+This is a table with characters and their characteristics in a fantasy short story:
+1. Jane, alive, farmer, no, human, woman, 18
+2. John, alive, blacksmith, no, human, man, 20
+3. Harry, alive, thief, yes, human, man, 24
+4. Sarah, alive, healer, yes, human, woman, 25
+5. Steve, alive, warrior, yes, human, man, 26
+6. Timmy, alive, wizard, yes, human, boy, 10
+Write the beginning of a fantasy story with the characters in the table .
+
+
+input: Jane was a farmer who lived in a small village. She was 18 years old and she was alive. John was a blacksmith who lived in the same village as Jane. He was 20 years old and he was alive. Harry was a
+
+
+thief who lived in a different village. He was 24 years old and he was alive. Sarah was a healer who lived in the same village as Jane. She was 25 years old and she was alive. Steve was a warrior who lived in a different village. He was 26 years old and he was alive. Timmy was a wizard who lived in the same village as Jane. He was 10 years old and he was alive.
+
+
+input: 
+
+
+
+
+

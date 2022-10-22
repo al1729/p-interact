@@ -1,0 +1,17 @@
+This is a table with characters and their characteristics in a fantasy short story:
+1. Sarah | alive | farmer | yes | human | woman | 30
+2. John | alive | blacksmith | no | human | man | 25
+3. James | alive | farmer | yes | human | man | 16
+4. Jillian | alive | farmer's daughter | yes | human | woman | 15
+5. Jake the blacksmith's son | alive | blacksmith's son | no | human | boy | 10
+Write the beginning of a fantasy story with the characters in the table .
+
+
+input: Sarah was alive. She was a farmer. She said yes. She was human. She was a woman. She was 30 years old.
+
+John was alive. He was a blacksmith. He said no. He was human.
+
+
+He was a man. He was 25 years old.
+
+

@@ -1,0 +1,8 @@
+This is a table with characters and their characteristics in a fantasy short story:
+1. Sarah | alive | farmer | no | human | woman | 16
+2. Steve | alive | blacksmith | no | human | man | 20
+3. Sarah | alive | farmer | no | human | woman | 16
+4. Timmy | alive | farmer | no | human | boy | 10
+Write the beginning of a fantasy story with the characters in the table .
+
+

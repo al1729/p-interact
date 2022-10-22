@@ -1,0 +1,9 @@
+A bartender wants to become anonymous, but her ex-boyfriend exposes her real name. Her real name was Becca, and she met a guy named David at a bar. He was a bartender and she fell in love with him. The characters in this story are the following: name || profession | magic_user | species | gender | age
+
+John || farmer |||| 45
+
+Susan || farmer's daughter |||| 17
+
+Bill || blacksmith's son |||| 15Tell me the story of Becca and David.
+
+

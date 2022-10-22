@@ -1,0 +1,19 @@
+This is a table with characters and their characteristics in a fantasy short story:
+name | alive | profession | magic_user | species | gender | age
+
+John | alive | farmer | no | human | man | 23
+
+Susan | alive | blacksmith's daughter | no | human | woman | 18
+
+Timothy | alive | thief | yes | human | man | 24
+
+Elise | alive | mage's apprentice | yes | elf | woman | 15
+Write the beginning of a fantasy story with the characters in the table .
+
+
+input: John was walking through the forest, on his way to the market in the next town. He was a farmer, and he had a lot of produce to sell. As he was walking, he heard a rustling in the bushes. He
+
+
+turned to see what it was, and he saw a creature he had never seen before. It was green, and it had a long tail. John was scared, and he ran away.
+
+

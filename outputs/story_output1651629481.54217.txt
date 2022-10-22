@@ -1,0 +1,31 @@
+This is a table with characters and their characteristics in a fantasy short story:
+character 1:
+
+name: Joe
+alive: yes
+profession: farmer
+magic_user: no
+species: human
+gender: man
+age: 36
+
+character 2:
+
+name: Sarah
+alive: yes
+profession: seamstress
+magic_user: no
+species: human
+gender: woman
+age: 18
+Write the beginning of a fantasy story with the characters in the table .
+
+
+input: . .
+
+Joe was a farmer who lived in a small village. He was 36 years old and had a wife named Sarah. They had no children, but they were content with their lives. One day, Joe heard that a wizard was passing
+
+
+through the village. He was curious to meet the wizard, so he went to see him. The wizard looked at Joe and said, "I can see that you are a man of great strength and courage. I can also see that you are not a magic user. This is a great shame, because you have the potential to become a great wizard." Joe was disappointed, but he thanked the wizard for his advice.
+
+

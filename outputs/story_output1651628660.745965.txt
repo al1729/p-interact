@@ -1,0 +1,10 @@
+This is a table with characters and their characteristics in a fantasy short story:
+1. Sarah | alive | farmer | yes | human | woman | 18
+2. John | alive | blacksmith apprentice | yes | human | man | 15
+3. Bill | alive | farmer | yes | human | man | 45
+4. Brian | alive | farmer's son | yes | human | boy | 10
+5. Dave | alive | hunter/gatherer | no | human | man/woman?| 30
+6. Samantha | alive?| mage's apprentice?| yes?| elf?| woman?| 16
+Write the beginning of a fantasy story with the characters in the table .
+
+

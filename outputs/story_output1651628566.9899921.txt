@@ -1,0 +1,17 @@
+This is a table with characters and their characteristics in a fantasy short story:
+1. Sarah | alive | farmer | no | human | woman | 18
+2. John | alive | blacksmith | no | human | man | 23
+3. Bill | alive | farmer | yes | human | man | 45
+4. Steve | alive | farmer | yes | human | man | 17
+5. Mary | alive | farmer's daughter | no | human | woman | 16
+6. George the elf | alive | mage | yes | elf | man
+7. Tom the troll| alive | troll warrior| yes| troll| man| 26
+Write the beginning of a fantasy story with the characters in the table .
+
+
+input: Sarah was walking through the fields near her home when she saw a man walking towards her. As he got closer, she could see that he was unlike anyone she had ever seen before. He was tall and muscular, with skin as dark as
+
+
+coal. He wore clothes made of rough, woven cloth, and a heavy metal helmet covered his head. He carried a large hammer and she could see the muscles in his arms ripple as he walked. She was afraid, but she also felt a curiosity deep in her heart. She had never seen anyone like this before, and she wanted to know more about him.
+
+

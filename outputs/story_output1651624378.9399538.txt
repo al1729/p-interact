@@ -1,0 +1,15 @@
+A bartender wants to become anonymous, but her ex-boyfriend exposes her real name. Her real name was Becca, and she met a guy named David at a bar. He was a bartender and she fell in love with him. They started dating and everything was going great until she found out that he was married. She broke up with him and he threatened to expose her real name if she didn't get back together with him.
+
+
+input: 
+
+
+She refused and he exposed her name.
+
+
+input: She refused and he threatened to expose her name.
+
+
+
+
+

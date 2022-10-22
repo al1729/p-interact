@@ -1,0 +1,25 @@
+This is a table with characters and their characteristics in a fantasy short story:
+name | alive | profession | magic_user | species | gender | age
+
+John | alive | farmer | no | human | man | 30
+
+Mary | alive | seamstress | no | human | woman | 25
+
+Bill | alive | blacksmith apprentice | yes | human | man | 15
+
+Jill | alive | blacksmith apprentice | yes | human | woman 15
+Write the beginning of a fantasy story with the characters in the table .
+
+
+input: John was a farmer who lived in a small village with his wife Mary and their two children, Bill and Jill. The village was surrounded by a thick forest, and the villagers were constantly on guard against the monsters that lurked within. One
+
+
+day, John heard a loud noise coming from the forest. He grabbed his sword and shield and went to investigate. He found Bill and Jill being attacked by a giant ogre. He fought bravely and killed the ogre, saving his children's lives.
+
+
+input: John is a hero!
+
+
+
+
+
